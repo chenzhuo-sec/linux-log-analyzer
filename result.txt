@@ -1,0 +1,16 @@
+====== Linux 日志分析工具 ======
+
+1. SSH 登录失败次数统计
+5
+
+2. 攻击 IP 统计
+      3 192.168.1.100
+      1 192.168.1.102
+      1 192.168.1.101
+
+3. 最近失败记录
+Jun 10 10:00:01 server sshd[123]: Failed password for root from 192.168.1.100 port 22 ssh2
+Jun 10 10:01:02 server sshd[124]: Failed password for admin from 192.168.1.101 port 22 ssh2
+Jun 10 10:02:03 server sshd[125]: Failed password for root from 192.168.1.100 port 22 ssh2
+Jun 10 10:03:04 server sshd[126]: Failed password for user from 192.168.1.102 port 22 ssh2
+Jun 10 10:04:05 server sshd[127]: Failed password for root from 192.168.1.100 port 22 ssh2
