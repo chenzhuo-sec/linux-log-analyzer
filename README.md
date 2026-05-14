@@ -127,7 +127,7 @@ Jun 10 100102 server sshd[124] Failed password for admin from 192.168.1.101 port
 
 # 项目截图
 
-![image-20260514234015567](C:\Users\29143\AppData\Roaming\Typora\typora-user-images\image-20260514234015567.png)
+![image-20260514234015567](C:\Users\29143\Desktop\linux-log-analyzer\images\image-20260514234015567.png)
 
 运行后会自动生成：
 
